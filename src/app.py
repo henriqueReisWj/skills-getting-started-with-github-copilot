@@ -71,7 +71,7 @@ activities = {
     },
     "Science Club": {
         "description": "Conduct experiments and explore scientific concepts",
-        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "schedule": "Thursdays, 3:30 PM - 5:30 PM",
         "max_participants": 16,
         "participants": ["noah@mergington.edu"]
     }
